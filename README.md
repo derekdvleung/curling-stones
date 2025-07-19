@@ -3,12 +3,14 @@ Repository for supplementary files related to the publication "Where curling sto
 
 
 
-File S1 in the Supplement corresponds to GoPro image processing steps. 
+File S1 corresponds to GoPro image processing steps. 
 
-File S2 in the Supplement corresponds to GoPro uncertainty analysis. 
+File S2 corresponds to GoPro uncertainty analysis. 
 
-File S3 in the Supplement correspnds to probability thresholds for image sgmentation of sample AC-03-1.
+File S3 correspnds to probability thresholds for image sgmentation of sample AC-03-1.
 
-File S4 in the Supplement corresponds to kinematic and contact-area data for the on-ice experiments.
+File S4 corresponds to kinematic and contact-area data for the on-ice experiments.
 
-File S5 in the Supplement corresponds to the high-speed camera data.
+File S5 corresponds to the high-speed camera data.
+
+File S6 contains the Matlab® script used to calculate Hertzian contact stresses.
