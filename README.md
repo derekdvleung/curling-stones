@@ -1,5 +1,5 @@
 # curling-stones
-Repository for supplementary files related to the publication "Where curling stones collide with rock physics: Cyclical damage accumulation and fatigue in granitoids" submitted to Solid Earth.
+Repository for supplementary files related to the publication "Where curling stones collide with rock physics: Cyclical damage accumulation and fatigue in granitoids" submitted to Solid Earth. The original files are from the M.Sc.R. thesis on which this publication is based (Leung 2020)
 
 
 
