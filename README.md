@@ -11,6 +11,4 @@ File S3 correspnds to probability thresholds for image sgmentation of sample AC-
 
 File S4 corresponds to kinematic and contact-area data for the on-ice experiments.
 
-File S5 corresponds to the high-speed camera data.
-
-File S6 contains the Matlab® script used to calculate Hertzian contact stresses.
+File S5 contains the Matlab® script used to calculate Hertzian contact stresses.
